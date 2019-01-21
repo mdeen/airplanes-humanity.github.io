@@ -2,9 +2,10 @@
 layout: page
 title: Team
 permalink: /team/
+cover:  "/assets/team.png"
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<!-- <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile"> -->
 
 Maya Deen
 
@@ -14,10 +15,9 @@ Software Developer
 Sasha Hall
 
 Brennen Kulikowski
-Mechanical 
+Mechanical
 
 Kiran Rao
 Hardware Developer
 
-Our team blurb goes here. We are passionate about using engineering to make a positive difference in the world. 
-
+Our team blurb goes here. We are passionate about using engineering to make a positive difference in the world.
