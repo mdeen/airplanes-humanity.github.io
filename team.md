@@ -33,4 +33,9 @@ We are passionate about using engineering to make a positive difference in the w
   <figcaption>Brennen Kulikowski - Mechanical Design</figcaption>
 </figure>
 
+<figure>
+  <img width="120px" height="120px" src="{{ site.baseurl}}/assets/people/dog.jpg" />
+  <figcaption>Dog - Woof</figcaption>
+</figure>
+
 </div>
