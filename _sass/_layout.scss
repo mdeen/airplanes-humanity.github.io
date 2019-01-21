@@ -344,6 +344,16 @@ pre code.hljs {
 			padding-bottom: 0.5em;
  		}
 	}
+
+	.people {
+		display: flex;
+		flex-wrap: wrap;
+		text-align: center;
+
+		figure {
+			width: 120px;
+		}
+	}
 }
 
 /*
