@@ -16,8 +16,8 @@ Hardware Developer
 ### Maya Deen
 Materials
 
-
 ### Sasha Hall
+Project Management
 
 ### Brennen Kulikowski
 Mechanical Design
