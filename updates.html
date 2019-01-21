@@ -26,7 +26,7 @@ permalink: /blog/
 {% endfor %} -->
 <div class="wrapper">
 <ul class="post-list">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -52,7 +52,7 @@ permalink: /blog/
   {% endif %}
   {% endfor %}
 </ul>
-
+<!-- 
 <nav class="pagination" role="navigation">
 	<p>
     {% if paginator.previous_page %}
@@ -92,7 +92,7 @@ permalink: /blog/
     </span>
 		{% endif %}
 	</p>
-</nav>
+</nav> -->
 
 </div>
 <br>
