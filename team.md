@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-cover:  "/assets/team.png"
+cover:  "/assets/team.jpg"
 ---
 
 <!-- <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile"> -->
