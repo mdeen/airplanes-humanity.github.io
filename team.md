@@ -14,7 +14,7 @@ Software Developer
 Hardware Developer
 
 ### Maya Deen
-<img src="{{ site.baseurl }}/assets/people/maya.jpg" height="480" width="480" align="left">
+<img src="{{ site.baseurl }}/assets/people/maya.jpg" height="120" width="120" align="left">
 Materials
 
 
