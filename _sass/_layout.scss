@@ -246,15 +246,15 @@ pre code.hljs {
 			}
 		}
 	}
-	img {
-		display: block;
-		margin: auto;
-		width: 90%;
-	}
 	/*
 	*	Posts
 	*/
 	.post {
+		img {
+			display: block;
+			margin: auto;
+			width: 90%;
+		}
 		ul {
 			margin-bottom: 1em;
 		}
