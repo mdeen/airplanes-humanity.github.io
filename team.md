@@ -5,17 +5,18 @@ permalink: /team/
 cover:  "/assets/team.jpg"
 ---
 
-Maya Deen
+Our team blurb goes here. We are passionate about using engineering to make a positive difference in the world.
 
-Paul George
+### Kiran Rao
 Software Developer
 
-Sasha Hall
-
-Brennen Kulikowski
-Mechanical
-
-Kiran Rao
+### Paul George
 Hardware Developer
 
-Our team blurb goes here. We are passionate about using engineering to make a positive difference in the world.
+### Maya Deen
+
+
+### Sasha Hall
+
+### Brennen Kulikowski
+Mechanical Design
