@@ -35,7 +35,7 @@ We are passionate about using engineering to make a positive difference in the w
 
 <figure>
   <img width="120px" height="120px" src="{{ site.baseurl}}/assets/people/dog.jpg" />
-  <figcaption>Dog - Woof</figcaption>
+  <figcaption>Dog - Good Boy</figcaption>
 </figure>
 
 </div>
