@@ -6,8 +6,8 @@ author: Maya Deen
 ---
 
 
-![Cardboard airfoil opened to show ribs][CardboardAirfoil2_Ribs.jpg]
+![Cardboard airfoil opened to show ribs](CardboardAirfoil2_Ribs.jpg)
 
-![Gif of cardboard airfoil control surface demonstrating range of motion][Airfoil2ControlSurface.gif]
+![Gif of cardboard airfoil control surface demonstrating range of motion](Airfoil2ControlSurface.gif)
 
 
